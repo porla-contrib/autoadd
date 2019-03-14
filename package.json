@@ -1,0 +1,19 @@
+{
+  "name": "@porla-contrib/autoadd",
+  "version": "0.0.1",
+  "description": "A folder watcher plugin for Porla.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "porla",
+    "porla-plugin",
+    "autoadd"
+  ],
+  "author": "Viktor Elofsson <viktor@viktorelofsson.se>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@porla/porla": "^0.11.0"
+  }
+}
